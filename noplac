@@ -1,0 +1,22 @@
+return {
+	["isukikokc"] = {
+		TagText = "cheater Owner",
+		TagColor = Color3.fromRGB(255,0,255)
+		},
+		["Vv_by"] = {
+		TagText = "Chair owner L3",
+		TagColor = Color3.fromRGB(0,255,255)
+		},
+		["nekbdbkjevrhijefrihh"] = {
+		TagText = "YOUR REMINDER TO USE N1SAN1 config",
+		TagColor = Color3.fromRGB(0,255,255)
+		},
+		["ByfronTrashFluxusNic"] = {
+		TagText = "retard",
+		TagColor = Color3.fromRGB(0,255,255)
+		},
+		["avgebo"] = {
+		TagText = "Skxdded",
+		TagColor = Color3.fromRGB(255,0,255)
+	},
+}
