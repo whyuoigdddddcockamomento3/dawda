@@ -11,6 +11,10 @@ return {
 		TagText = "YOUR REMINDER TO USE N1SAN1 config",
 		TagColor = Color3.fromRGB(0,255,255)
 		},
+		["123Alan56789"] = {
+		TagText = "PREMIUM Atrex",
+		TagColor = Color3.fromRGB(255,255,0)
+		},
 		["ByfronTrashFluxusNic"] = {
 		TagText = "retard",
 		TagColor = Color3.fromRGB(0,255,255)
