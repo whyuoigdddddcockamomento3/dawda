@@ -1,5 +1,5 @@
 return {
-	["isukikokc"] = {
+	["tablex10135"] = {
 		TagText = "cheater Owner",
 		TagColor = Color3.fromRGB(255,0,255)
 		},
