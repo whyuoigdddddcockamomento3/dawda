@@ -15,7 +15,7 @@ return {
 		TagText = "Novoline Owner",
 		TagColor = Color3.fromRGB(0,255,255)
 		},
-		["123Alan56789"] = {
+		["bedwars_220"] = {
 		TagText = "PREMIUM Atrex",
 		TagColor = Color3.fromRGB(255,255,0)
 		},
