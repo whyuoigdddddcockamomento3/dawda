@@ -1,30 +1,10 @@
 return {
-	["tablex10135"] = {
-		TagText = "cheater Owner",
+	["therealtable_1"] = {
+		TagText = "Ceo founder n1san1",
 		TagColor = Color3.fromRGB(255,0,255)
 		},
-		["Vv_by"] = {
-		TagText = "Chair owner L3",
-		TagColor = Color3.fromRGB(0,255,255)
-		},
-		["nekbdbkjevrhijefrihh"] = {
-		TagText = "YOUR REMINDER TO USE N1SAN1 config",
-		TagColor = Color3.fromRGB(0,255,255)
-		},
-		["WhenGrapplerAcDis"] = {
-		TagText = "Novoline Owner",
-		TagColor = Color3.fromRGB(0,255,255)
-		},
-		["bedwars_220"] = {
-		TagText = "PREMIUM Atrex",
-		TagColor = Color3.fromRGB(255,255,0)
-		},
-		["ByfronTrashFluxusNic"] = {
-		TagText = "retard",
-		TagColor = Color3.fromRGB(0,255,255)
-		},
-		["avgebo"] = {
-		TagText = "Skxdded",
-		TagColor = Color3.fromRGB(255,0,255)
+	["SubToStavXpl0itz"] = {
+		TagText = "VAPE OWNER",
+		TagColor = Color3.fromRGB(0,0,0)
 	},
 }
